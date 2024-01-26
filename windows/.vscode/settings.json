@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "nuklear.h": "c",
+        "nuklear_gdi.h": "c",
+        "*.rh": "c",
+        "locale.h": "c",
+        "random": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "span": "c",
+        "vector": "c",
+        "functional": "c",
+        "json.h": "c",
+        "config.h": "c",
+        "cjson.h": "c"
+    }
+}

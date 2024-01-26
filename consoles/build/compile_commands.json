@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/gptcall/consoles/build",
+  "command": "E:\\msys64\\mingw64\\bin\\clang.exe -IC:/Users/Administrator/Desktop/gptcall/consoles/. -g -o CMakeFiles\\CMake.dir\\gpt-3.5.c.obj -c C:\\Users\\Administrator\\Desktop\\gptcall\\consoles\\gpt-3.5.c",
+  "file": "C:\\Users\\Administrator\\Desktop\\gptcall\\consoles\\gpt-3.5.c",
+  "output": "CMakeFiles\\CMake.dir\\gpt-3.5.c.obj"
+}
+]

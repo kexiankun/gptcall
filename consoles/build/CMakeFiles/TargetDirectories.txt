@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/gptcall/consoles/build/CMakeFiles/CMake.dir
+C:/Users/Administrator/Desktop/gptcall/consoles/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/gptcall/consoles/build/CMakeFiles/rebuild_cache.dir

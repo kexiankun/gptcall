@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/gui/Nuklear C/demo/gdi/build",
+  "command": "E:\\msys64\\mingw64\\bin\\clang.exe -I\"E:/gui/Nuklear C/demo/gdi/.\" -g -o CMakeFiles\\CMake.dir\\main.c.obj -c \"E:\\gui\\Nuklear C\\demo\\gdi\\main.c\"",
+  "file": "E:\\gui\\Nuklear C\\demo\\gdi\\main.c",
+  "output": "CMakeFiles\\CMake.dir\\main.c.obj"
+},
+{
+  "directory": "E:/gui/Nuklear C/demo/gdi/build",
+  "command": "E:\\msys64\\mingw64\\bin\\clang.exe -I\"E:/gui/Nuklear C/demo/gdi/.\" -g -o CMakeFiles\\CMake.dir\\ui.c.obj -c \"E:\\gui\\Nuklear C\\demo\\gdi\\ui.c\"",
+  "file": "E:\\gui\\Nuklear C\\demo\\gdi\\ui.c",
+  "output": "CMakeFiles\\CMake.dir\\ui.c.obj"
+}
+]
