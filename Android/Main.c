@@ -574,8 +574,8 @@ int makeRequest(CURL *curl, const char *endpoint, const char *api_key, const cha
 	curl_easy_setopt(curl, CURLOPT_WRITEDATA, &chunk);
 	curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER, 0L);
 
-	curl_easy_setopt(curl, CURLOPT_COOKIEJAR, "cookies.txt");
-	curl_easy_setopt(curl, CURLOPT_COOKIEFILE, "cookies.txt");
+	//curl_easy_setopt(curl, CURLOPT_COOKIEJAR, "cookies.txt");
+	//curl_easy_setopt(curl, CURLOPT_COOKIEFILE, "cookies.txt");
 
 	// 设置http代理服务器：
 	// curl_easy_setopt(curl, CURLOPT_PROXY, my_ip);
