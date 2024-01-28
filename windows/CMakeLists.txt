@@ -5,7 +5,7 @@ project(CMake)
 # 设置发布版本
 #set(CMAKE_BUILD_TYPE Release)
 
-# 添加ImGui源代码目录
+# 添加nuklearGui源代码目录
 aux_source_directory(. SRC_LIST)
 include_directories(.)
 
