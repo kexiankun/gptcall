@@ -71,7 +71,7 @@ int myapi_len = 0;
 int mysoft_len = 0;
 char my_ip[] = "28.0.4.83:80";
 int myip_len = 0;
-char myapi_key[] = "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";
+char myapi_key[] = "";
 //6
 //char myapi_key[] = "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";
 
