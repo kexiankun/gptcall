@@ -198,8 +198,7 @@ int main()
 	curl_global_init(CURL_GLOBAL_DEFAULT);
 
 	const char *endpoint = "https://api.openai.com/v1/chat/completions";
-    //const char *api_key ="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";
-	const char api_key[] = "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";
+	const char api_key[] = "sk-r";
 	const char *model = "gpt-3.5-turbo";	// "gpt-3-turbo";
 	char input[4096];
 
